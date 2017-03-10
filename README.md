@@ -1,5 +1,5 @@
 # Joomla-File-Uploading
-File Uploading in the Joomla Custom Component 
+File Uploading in the Joomla Custom Component with php script 
 
 For uploading the file you need to write your code in the controller file and you can extend the save() method. check the code given below -
 
